@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Empowering Unity through Open Source! Taslim A Hussain</h1>
+<h1 align="center">🚀 Empowering Unity through Open Source!</h1>
 <h3 align="center">Empowering Unity through Open Source. Creating valuable tools, united by a passion for clean code and relentless improvement. Let's embark on this journey!</h3>
 
 <br /><br />
