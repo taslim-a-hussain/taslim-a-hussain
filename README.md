@@ -19,7 +19,6 @@
 <a href="https://stackoverflow.com/users/6628442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6628442" height="30" width="40" /></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taslim-a-hussain&include_all_commits=true)
 
 <br /><br />
 
