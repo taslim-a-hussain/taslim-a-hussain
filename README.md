@@ -30,7 +30,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/taslimhussain"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="taslimhussain" /></a></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=taslim-a-hussain&" alt="taslim-a-hussain" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=taslim-a-hussain&theme=highcontrast" alt="taslim-a-hussain" /></p>
 
 [![Stargazers repo roster for @taslim-a-hussain/taslim-a-hussain](https://reporoster.com/stars/dark/taslim-a-hussain/taslim-a-hussain)](https://github.com/taslim-a-hussain/taslim-a-hussain/stargazers)
 
