@@ -16,7 +16,7 @@
 </div> -->
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=taslim-a-hussain&theme=onedark" alt="taslim-a-hussain" /></p>
 
-###
+##
 
 <div style="cursor: pointer;">
 <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/Taslim__Hussain?style=social&label=Follow%3A%20Taslim__Hussain">
@@ -34,58 +34,17 @@
 
 
 <br />
+ 
+ ## Languages
+| 👨🏽‍💻 Programming | 🖌️ Markup & Styling | 📜 Scripting & Query | ⚙️ Low-Level | 📦 Data Formats | 
+| -------------- | ------------------- | -------------------- | ------------ | --------------- |
+| <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"> | <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML"> | <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash"> | <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"> | <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="JSON"> |
+| <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"> | <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS"> | <img width="40" src="https://cdn-icons-png.freepik.com/512/4492/4492311.png" alt="SQL"> | <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"> | <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg" alt="yaml"> |
+| <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"> | <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass"> | <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua"> | <img width="40" src="https://static-00.iconduck.com/assets.00/assembly-icon-1024x1024-lc5e1bk1.png" alt="Assembly"> |  |
+| <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"> | <img width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/markdown_here_logo_icon_169967.png" alt="markdown"> | <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell"> |  |  |
+| <img width="40" src="https://banner2.cleanpng.com/20201211/qja/transparent-web-development-icon-php-programming-language-icon-5fd3da4691fd35.262333681607719494598.jpg" alt="php"> |  |  |  |  |
+| <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"> |  |  |  |  |
 
-<div>
-        <div>
-            <h2>Languages:</h2>
-        <div style="padding-left: 40px;">
-            <div>
-                <h3>👨🏽‍💻 Programming Languages:</h3>
-                 <div style="padding-left: 40px;">
-                    <span><img width="40" style="background: rgba(0, 0, 0, 0.5); border-radius: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"></span>
-                    <span><img width="40" style="background: rgba(0, 0, 0, 0.5); border-radius: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++"></span>
-                    <span><img width="40" style="background: rgba(0, 0, 0, 0.8); border-radius: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"></span>
-                    <span><img width="40" style="border-radius: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"></span>
-                    <span><img width="40" style="border-radius: 5px; background: rgb(226, 226, 226);" src="https://static-00.iconduck.com/assets.00/php-icon-256x256-oq5bc0bt.png" alt="php"></span>
-                    <span><img width="40" style="border-radius: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"></span>
-                 </div>
-            </div>
-            <div>
-                <h3>🖌️ Markup & Styling:</h3>
-                <div style="padding-left: 40px;">
-                    <span><img width="40" style="background: rgba(255, 255, 255, 0.9); border-radius: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html"></span>
-                    <span><img width="40" style="background: rgba(255, 255, 255, 0.9); border-radius: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css"></span>
-                    <span><img width="40" style="background: rgba(255, 255, 255, 0.9); border-radius: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"></span>
-                </div>
-            </div>
-            <div>
-                <h3>📜 Scripting & Query Languages:</h3>
-                <div style="padding-left: 40px;">
-                    <span><img width="40" style="border-radius: 5px; background: rgba(255, 255, 255, 0.8);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash"></span>
-                    <span><img width="40" style="border-radius: 5px; background: rgba(255, 255, 255, 0.8);" src="https://cdn-icons-png.freepik.com/512/4492/4492311.png" alt="sql"></span>
-                    <span><img width="40" style="border-radius: 5px; background: rgba(255, 255, 255, 0.8);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua"></span>
-                    <span><img width="40" style="border-radius: 5px; background: rgba(255, 255, 255, 0.8);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell"></span>
-                </div>
-            </div>
-            <div>
-                <h3>⚙️ Low-Level & Assembly Languages:</h3>
-                <div style="padding-left: 40px;">
-                    <span><img width="40" style="background: rgba(0, 0, 0, 0.5); border-radius: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"></span>
-                    <span><img width="40" style="background: rgba(0, 0, 0, 0.5); border-radius: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++"></span>
-                    <span><img width="40" style="border-radius: 5px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQdA_2Vi350-blMARDU4bOdXkXaanfyYmPVg&s" alt="asm"></span>
-                </div>
-            </div>
-            <div>
-                <h3>📦 Data Formats:</h3>
-                <div style="padding-left: 40px;">
-                    <span><img width="40" style="border-radius: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="json"></span>
-                    <span><img width="40" style="border-radius: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg" alt="yaml"></span>
-                    <span><img width="40" style="border-radius: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" alt="xml"></span>
-                </div>
-            </div>
-        </div>
-        </div>
-    </div>
 
 <hr />
 
