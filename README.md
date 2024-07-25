@@ -46,7 +46,7 @@
                     <span><img width="40" style="background: rgba(0, 0, 0, 0.5); border-radius: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++"></span>
                     <span><img width="40" style="background: rgba(0, 0, 0, 0.8); border-radius: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"></span>
                     <span><img width="40" style="border-radius: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"></span>
-                    <span><img width="40" style="border-radius: 5px; background: rgb(226, 226, 226);" src="https://www.svgrepo.com/show/150351/php-programming-language.svg" alt="php"></span>
+                    <span><img width="40" style="border-radius: 5px; background: rgb(226, 226, 226);" src="https://static-00.iconduck.com/assets.00/php-icon-256x256-oq5bc0bt.png" alt="php"></span>
                     <span><img width="40" style="border-radius: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"></span>
                  </div>
             </div>
@@ -71,6 +71,7 @@
                 <h3>⚙️ Low-Level & Assembly Languages:</h3>
                 <div style="padding-left: 40px;">
                     <span><img width="40" style="background: rgba(0, 0, 0, 0.5); border-radius: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"></span>
+                    <span><img width="40" style="background: rgba(0, 0, 0, 0.5); border-radius: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++"></span>
                     <span><img width="40" style="border-radius: 5px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQdA_2Vi350-blMARDU4bOdXkXaanfyYmPVg&s" alt="asm"></span>
                 </div>
             </div>
