@@ -1,41 +1,44 @@
 <h1 align="center">🚀 Crafting Solutions, One Line of Code at a Time</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm on a mission to create innovative tools and software that empower developers and streamline workflows. With a passion for clean code and continuous learning, I'm excited to share my journey with you. Let's build something great together!</h3>
 
-<br /><br />
+___
 
+<!-- Profile views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taslim-a-hussain&label=Profile%20views&color=0e75b6&style=flat" alt="taslim-a-hussain" /> </p>
 
-<div style="width: 100%;">
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taslim-a-hussain&theme=onedark" alt="taslim-a-hussain" /></a> </p>
-</div>
+<!-- Github Trophies without extra Trophies -->
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=taslim-a-hussain&theme=onedark&column=3&margin-w=100&margin-h=20" alt="taslim-a-hussain" /></p>
 
-<br />
-
-<div align="center">
+<!-- Stats graph -->
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=taslim-a-hussain&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
+</p>
+
+<!-- Streak graph -->
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=taslim-a-hussain&theme=onedark" alt="taslim-a-hussain" /></p>
 
-##
+___
 
+<!-- Twitter (X) -->
 <div style="cursor: pointer;">
 <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/Taslim__Hussain?style=social&label=Follow%3A%20Taslim__Hussain">
 </div>
 
-<div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; padding: 0 10px;">
-<h3 style="margin-top: 5px;">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/taslimahussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="taslimahussain" height="30" width="40" /></a>
-<a href="https://twitter.com/taslim__hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taslim__hussain" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/taslim-a-hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/taslim-a-hussain" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/6628442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6628442" height="30" width="40" /></a>
-</p>
+<!-- Connect with me -->
+<div>
+  <h3 style="margin-top: 5px;">Connect with me:</h3>
+  <p align="left">
+    <a href="https://dev.to/taslimahussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="taslimahussain" height="30" width="40" /></a>
+    <a href="https://twitter.com/taslim__hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taslim__hussain" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/taslim-a-hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/taslim-a-hussain" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/6628442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6628442" height="30" width="40" /></a>
+  </p>
 </div>
 
-
-<br />
+___
  
- ## Languages
+### Languages
+
 | 👨🏽‍💻 Programming | 🖌️ Markup & Styling | 📜 Scripting & Query | ⚙️ Low-Level | 📦 Data Formats | 
 | :------------: | :-----------------: | :-----------------: | :--------------: | :-----------: | 
 | <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C"> | <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" title="HTML"> | <img width="40" src="./assets/bash.png" alt="Bash" title="Bash"> | <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C"> | <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="JSON" title="JSON"> |
