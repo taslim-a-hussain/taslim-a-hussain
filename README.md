@@ -7,15 +7,16 @@ ___
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taslim-a-hussain&label=Profile%20views&color=0e75b6&style=flat" alt="taslim-a-hussain" /> </p>
 
 <!-- Github Trophies without extra Trophies -->
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=taslim-a-hussain&theme=onedark&column=3&margin-w=100&margin-h=20" alt="taslim-a-hussain" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taslim-a-hussain&theme=onedark&column=3&margin-w=150&margin-h=20" alt="taslim-a-hussain" /></a> </p>
 
-<!-- Stats graph -->
+<!-- Github stats & streak graph -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taslim-a-hussain&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</p>
+  <!-- Stats graph -->
+  <a href="https://github.com/taslim-a-hussain?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=taslim-a-hussain&theme=onedark&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="80%" alt="@taslim-a-hussain's github-readme-stats"/></a>
 
-<!-- Streak graph -->
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=taslim-a-hussain&theme=onedark" alt="taslim-a-hussain" /></p>
+  <!-- Streak graph -->
+  <a href="https://github.com/taslim-a-hussain?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=taslim-a-hussain&theme=onedark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="100%" alt="@taslim-a-hussain's github-readme-streak-stats"/></a>
+</p>
 
 ___
 
@@ -25,18 +26,18 @@ ___
 </div>
 
 <!-- Connect with me -->
-<div>
-  <h3 style="margin-top: 5px;">Connect with me:</h3>
-  <p align="left">
-    <a href="https://dev.to/taslimahussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="taslimahussain" height="30" width="40" /></a>
-    <a href="https://twitter.com/taslim__hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taslim__hussain" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/taslim-a-hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/taslim-a-hussain" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/6628442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6628442" height="30" width="40" /></a>
-  </p>
-</div>
+### Connect with me:
+
+<p align="left">
+  <a href="https://dev.to/taslimahussain" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="taslimahussain" height="30" width="40" /></a>
+  <a href="https://twitter.com/taslim__hussain" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taslim__hussain" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/taslim-a-hussain" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/taslim-a-hussain" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/6628442" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6628442" height="30" width="40" /></a>
+</p>
 
 ___
  
+
 ### Languages
 
 | 👨🏽‍💻 Programming | 🖌️ Markup & Styling | 📜 Scripting & Query | ⚙️ Low-Level | 📦 Data Formats | 
