@@ -7,22 +7,20 @@ ___
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taslim-a-hussain&label=Profile%20views&color=0e75b6&style=flat" alt="taslim-a-hussain" /> </p>
 
 <!-- Github Trophies without extra Trophies -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taslim-a-hussain&theme=onedark&column=3&margin-w=150&margin-h=20" alt="taslim-a-hussain" /></a> </p>
+<p align="center"> 
+  <a href="https://github.com/taslim-a-hussain/taslim-a-hussain"><img src="https://github-profile-trophy.vercel.app/?username=taslim-a-hussain&theme=onedark&title=-MultiLanguage&column=4" width="64%" alt="taslim-a-hussain" /></a> 
+  <a href="https://github.com/taslim-a-hussain/taslim-a-hussain"><img src="https://github-profile-trophy.vercel.app/?username=taslim-a-hussain&theme=onedark&title=MultiLanguage&column=1" width="32%" alt="taslim-a-hussain" /></a> 
+</p>
 
 <!-- Github stats & streak graph -->
 <p align="center">
   <!-- Stats graph -->
-  <a href="https://github.com/taslim-a-hussain?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=taslim-a-hussain&theme=onedark&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="49%" alt="@taslim-a-hussain's github-readme-stats"/></a>
+  <a href="https://github.com/taslim-a-hussain/taslim-a-hussain"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=taslim-a-hussain&theme=onedark&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="49%" alt="@taslim-a-hussain's github-readme-stats"/></a>
   <!-- Streak graph -->
-  <a href="https://github.com/taslim-a-hussain?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=taslim-a-hussain&theme=onedark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="49%" alt="@taslim-a-hussain's github-readme-streak-stats"/></a>
+  <a href="https://github.com/taslim-a-hussain/taslim-a-hussain"><img src="https://github-readme-streak-stats.herokuapp.com?user=taslim-a-hussain&theme=onedark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="49%" alt="@taslim-a-hussain's github-readme-streak-stats"/></a>
 </p
 
 ___
-
-<!-- Twitter (X) -->
-<div style="cursor: pointer;">
-<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/Taslim__Hussain?style=social&label=Follow%3A%20Taslim__Hussain">
-</div>
 
 <!-- Connect with me -->
 ### Connect with me:
