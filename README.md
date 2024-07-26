@@ -12,11 +12,10 @@ ___
 <!-- Github stats & streak graph -->
 <p align="center">
   <!-- Stats graph -->
-  <a href="https://github.com/taslim-a-hussain?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=taslim-a-hussain&theme=onedark&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="80%" alt="@taslim-a-hussain's github-readme-stats"/></a>
-
+  <a href="https://github.com/taslim-a-hussain?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=taslim-a-hussain&theme=onedark&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="49%" alt="@taslim-a-hussain's github-readme-stats"/></a>
   <!-- Streak graph -->
-  <a href="https://github.com/taslim-a-hussain?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=taslim-a-hussain&theme=onedark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="100%" alt="@taslim-a-hussain's github-readme-streak-stats"/></a>
-</p>
+  <a href="https://github.com/taslim-a-hussain?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=taslim-a-hussain&theme=onedark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="49%" alt="@taslim-a-hussain's github-readme-streak-stats"/></a>
+</p
 
 ___
 
