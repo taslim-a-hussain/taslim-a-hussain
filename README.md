@@ -11,9 +11,9 @@
 
 <br />
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taslim-a-hussain&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div> -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taslim-a-hussain&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=taslim-a-hussain&theme=onedark" alt="taslim-a-hussain" /></p>
 
 ##
@@ -52,7 +52,10 @@
 
 <!-- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=taslim-a-hussain&theme=onedark" alt="taslim-a-hussain" /></p> -->
 
-### [Stargazers](https://github.com/taslim-a-hussain/taslim-a-hussain/stargazers)
-[![Stargazers repo roster for @taslim-a-hussain/taslim-a-hussain](https://reporoster.com/stars/dark/notext/taslim-a-hussain/taslim-a-hussain)](https://github.com/taslim-a-hussain/taslim-a-hussain/stargazers)
+<details style="cursor: pointer;">
+  <summary>👥 Stargazers</summary>
+
+  [![Stargazers repo roster for @taslim-a-hussain/taslim-a-hussain](https://reporoster.com/stars/dark/notext/taslim-a-hussain/taslim-a-hussain)](https://github.com/taslim-a-hussain/taslim-a-hussain/stargazers)
+</details>
 
 <!-- <p align="center"><a href="https://ko-fi.com/taslimhussain"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="taslimhussain" /></a></p> -->
