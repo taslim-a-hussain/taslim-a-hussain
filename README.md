@@ -3,9 +3,6 @@
 
 ___
 
-<!-- Profile views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taslim-a-hussain&label=Profile%20views&color=0e75b6&style=flat" alt="taslim-a-hussain" /> </p>
-
 <!-- Github Trophies without extra Trophies -->
 <p align="center"> 
   <a href="https://github.com/taslim-a-hussain/taslim-a-hussain"><img src="https://github-profile-trophy.vercel.app/?username=taslim-a-hussain&theme=onedark&title=-MultiLanguage&column=4" width="64%" alt="taslim-a-hussain" /></a> 
