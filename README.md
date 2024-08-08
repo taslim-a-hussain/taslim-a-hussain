@@ -5,8 +5,8 @@ ___
 
 <!-- Github Trophies without extra Trophies -->
 <p align="center"> 
-  <a href="https://github.com/taslim-a-hussain/taslim-a-hussain"><img src="https://github-profile-trophy.vercel.app/?username=taslim-a-hussain&theme=onedark&title=-MultiLanguage&column=4" width="64%" alt="taslim-a-hussain" /></a> 
-  <a href="https://github.com/taslim-a-hussain/taslim-a-hussain"><img src="https://github-profile-trophy.vercel.app/?username=taslim-a-hussain&theme=onedark&title=MultiLanguage&column=1" width="32%" alt="taslim-a-hussain" /></a> 
+  <a href="https://github.com/taslim-a-hussain/taslim-a-hussain"><img src="https://github-profile-trophy.vercel.app/?username=taslim-a-hussain&theme=onedark&title=-MultiLanguage&row=2&column=4" width="64%" alt="taslim-a-hussain" /></a> 
+  <a href="https://github.com/taslim-a-hussain/taslim-a-hussain"><img src="https://github-profile-trophy.vercel.app/?username=taslim-a-hussain&theme=onedark&title=MultiLanguage&row=1&column=1" width="32%" alt="taslim-a-hussain" /></a> 
 </p>
 
 <!-- Github stats & streak graph -->
